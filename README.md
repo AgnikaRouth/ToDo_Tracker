@@ -28,17 +28,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Output Pages
 
-###1. Showing the Home Page of the App
+https://user-images.githubusercontent.com/45993797/126040637-3067c037-2045-4d0d-9eec-b865837f3889.mp4
 
-![ss1_todo-tracker](https://user-images.githubusercontent.com/45993797/126040384-4b8b35a4-c4e4-43c4-b3bc-35e3403c9c30.jpg)
-
-
-###2. Add New Note Page
-![ss2_todo-tracker](https://user-images.githubusercontent.com/45993797/126040421-e0620484-3757-482d-804b-50c72fe5d6e9.jpg)
-
- 
-###3. Final updated page, after new note is added
-![ss3_todo-tracker](https://user-images.githubusercontent.com/45993797/126040476-9e714a37-b06c-4b50-ba59-c79921402163.jpg)
 
 
 
